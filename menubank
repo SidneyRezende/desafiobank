@@ -1,4 +1,4 @@
-banco = 'SRSE Bank (GNB)'
+banco = 'SRSE Bank (SB)'
 slogan = 'Líder mundial em crédito e serviços bancários'
 menu ='''         Seja bem-vindo ao GNB!
 [S] Sacar
@@ -94,7 +94,7 @@ while True:
         print(f'Saques diários restantes: {qtd_limite_saque}\n')
 
     elif opcao == 'Q':
-        print('      O GNB agradece a preferência!')
+        print('      O SB agradece a preferência!')
         print()
         break
 
